@@ -8,5 +8,5 @@ import(
 
 func main(){
 	fmt.Println("FPL kicking!!!")
-	db.Connect()
+	db.ConnectDB()
 }
